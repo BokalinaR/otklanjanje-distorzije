@@ -10,6 +10,8 @@ Ovde možete pronaći implementacije za: naivni algoritam, DLT algoritam i norma
 ### Detalji: :wrench:
 Program je napisan u jeziku Python (v3), na operativnom sistemu Ubuntu. Koristi ```numpy``` biblioteku. 
 
-
+### Članovi tima: 
+- [Bojana Ristanović](https://github.com/BokalinaR): bokanar@gmail.com
+- [Lea Petković](https://github.com/leic25): lea.bela.97@gmail.com
 
 ![screenshot](https://github.com/leic25/otklanjanje-distorzije/blob/master/Screenshot.jpg)
