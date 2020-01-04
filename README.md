@@ -7,3 +7,5 @@ Ovde možete pronaći implementacije za: naivni algoritam, DLT algoritam i norma
 2. Pokreće algoritam klikom na odgovarajuće dugme
 3. Nakon toga korisnik dobija novu fotografiju sa otklonjenom distorzijom
 
+### Detalji: :wrench:
+Program je napisan u jeziku Python (v3), na operativnom sistemu Ubuntu. Koristi ```numpy``` biblioteku. 
